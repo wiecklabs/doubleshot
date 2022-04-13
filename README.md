@@ -1,6 +1,6 @@
 #Doubleshot
 
-Latest test results:
+Latest test results: FOOBAR
 
 [![Build Status](https://secure.travis-ci.org/sam/doubleshot.png)](http://travis-ci.org/sam/doubleshot)
 
